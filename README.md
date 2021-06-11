@@ -40,10 +40,13 @@ https://github.com/autopkg/jlehikoinen-recipes
 
 https://gist.github.com/jlehikoinen
 
-## Old projects
+## Old or archived projects
 
-- Media management solution v1 & v2
-- Docker etc.
+- [Personal media management solution v1](https://github.com/jlehikoinen/media-management-helper)
+- [Personal media management solution v2](https://github.com/jlehikoinen/db-mover)
+- [Swift REPL in Docker container](https://github.com/jlehikoinen/swift-repl)
+- [MunkiReport playground in Docker](https://github.com/jlehikoinen/munkireport-playground)
+- [Jamf Pro playground in Docker](https://github.com/jlehikoinen/jss-playground)
 
 ## Some
 
