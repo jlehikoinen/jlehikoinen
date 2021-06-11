@@ -6,8 +6,9 @@ During these years I've learned fair amount of shell scripting, AppleScript and 
 
 ## Recent projects
 
-- [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (macOS SwiftUi app)
+- [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (macOS SwiftUI app)
 - [FinderMate](https://github.com/jlehikoinen/FinderMate) (macOS Finder extension written in Swift)
+- [OpenWeatherMap API Demo](https://github.com/jlehikoinen/openweathermap-api-demo) (Simple Swift app using OpenWeatherMap API)
 - [Pythonista Flask example project](https://github.com/jlehikoinen/pythonista-flask-example)
 - [Home video & photo management solution](https://jlehikoinen.github.io/md/video_and_photo_management.html)
 - Private iOS list app (built using SwiftUI and Firebase)
