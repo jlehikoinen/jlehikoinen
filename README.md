@@ -18,8 +18,8 @@ https://gist.github.com/jlehikoinen
 
 ### Scripting In Swift 25.04.2019
 
-[GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
-[YouTube: FinMacAdmin 2019 - Janne Lehikoinen - Swift skriptikielenä](https://www.youtube.com/watch?v=DgSa2L2xz6M)
+- [GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
+- [YouTube: FinMacAdmin 2019 - Janne Lehikoinen - Swift skriptikielenä](https://www.youtube.com/watch?v=DgSa2L2xz6M)
 
 ### How To Build a Swift macOS App (with Antti Tulisalo) 12.12.2017
 
