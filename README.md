@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**jlehikoinen/jlehikoinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Janne. I have been working as a Mac administrator and managing Apple devices for over 10 years. Started learning and developing macOS apps with Swift when it was released in 2014.
 
-Here are some ideas to get you started:
+## Recent projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (macOS SwiftUi app)
+- [FinderMate](https://github.com/jlehikoinen/FinderMate) (macOS Finder extension written in Swift)
+- [Pythonista Flask example project](https://github.com/jlehikoinen/pythonista-flask-example)
+- Home video & photo management solution (todo)
+- Private iOS list app (built using SwiftUI and Firebase)
+
+## Gists
+
+https://gist.github.com/jlehikoinen
+
+## FinMacAdmin presentations
+
+### Scripting In Swift 25.04.2019
+
+[GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
+[YouTube: FinMacAdmin 2019 - Janne Lehikoinen - Swift skriptikielenä](https://www.youtube.com/watch?v=DgSa2L2xz6M)
+
+### How To Build a Swift macOS App (with Antti Tulisalo) 12.12.2017
+
+[GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2017_pt2/tree/master/HowToBuildSwiftmacOSApp)
+
+### iOS & SysAdmin Tools 20.01.2017
+
+[GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2017/tree/master/ios_janne_lehikoinen)
+
+### Old projects
+
+- Media management solution v1 & v2
+- Docker etc.
+
+## Some
+
+- [Github website](https://jlehikoinen.github.io)
+- [LinkedIn](https://fi.linkedin.com/in/jlehikoinen)
+- [Twitter](https://twitter.com/fatmrcrab) 
