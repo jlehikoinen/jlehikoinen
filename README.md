@@ -10,7 +10,7 @@ During these years I've learned how to manage Apple devices using macOS and Linu
 - [FinderMate](https://github.com/jlehikoinen/FinderMate) (macOS Finder extension written in Swift)
 - [OpenWeatherMap API Demo](https://github.com/jlehikoinen/openweathermap-api-demo) (Simple Swift app using OpenWeatherMap API)
 - [Pythonista Flask example project](https://github.com/jlehikoinen/pythonista-flask-example)
-- [Home video & photo management solution](https://jlehikoinen.github.io/md/video_and_photo_management.html)
+- [Home video & photo management solution](https://jlehikoinen.github.io/md/video_and_photo_management.html) (Combination of Python, shell scripting, Swift and a tvOS app using TVMLKit framework)
 - Private iOS list app (built using SwiftUI and Firebase)
 
 ## FinMacAdmin presentations
@@ -21,7 +21,7 @@ During these years I've learned how to manage Apple devices using macOS and Linu
 
 - [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
 - [Demo project repo](https://github.com/jlehikoinen/ScriptingInSwiftDemo)
-- [Presentation in YouTube](https://www.youtube.com/watch?v=DgSa2L2xz6M)
+- [Presentation in YouTube (in Finnish)](https://www.youtube.com/watch?v=DgSa2L2xz6M)
 
 ### How To Build a Swift macOS App (with Antti Tulisalo) - 12.12.2017
 
