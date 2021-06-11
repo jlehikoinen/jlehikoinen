@@ -18,16 +18,19 @@ https://gist.github.com/jlehikoinen
 
 ### Scripting In Swift 25.04.2019
 
-- [GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
-- [YouTube: FinMacAdmin 2019 - Janne Lehikoinen - Swift skriptikielenä](https://www.youtube.com/watch?v=DgSa2L2xz6M)
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
+- [Demo project repo](https://github.com/jlehikoinen/ScriptingInSwiftDemo)
+- [Presentation in YouTube](https://www.youtube.com/watch?v=DgSa2L2xz6M)
 
 ### How To Build a Swift macOS App (with Antti Tulisalo) 12.12.2017
 
-[GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2017_pt2/tree/master/HowToBuildSwiftmacOSApp)
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2017_pt2/tree/master/HowToBuildSwiftmacOSApp)
+- [Demo project repo](https://github.com/jlehikoinen/DemoApp)
 
 ### iOS & SysAdmin Tools 20.01.2017
 
-[GitHub: FinMacAdmin](https://github.com/macadminfi/finmacadmin2017/tree/master/ios_janne_lehikoinen)
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2017/tree/master/ios_janne_lehikoinen)
+- [Demo project repo](https://github.com/jlehikoinen/pythonista-flask-example)
 
 ### Old projects
 
