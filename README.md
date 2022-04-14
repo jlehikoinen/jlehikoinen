@@ -4,7 +4,7 @@ I'm Janne and one of the founders of [The Finnish MacAdmin Community](http://mac
 
 During these years I've learned how to manage Apple devices using macOS and Linux platforms utilizing different management solutions. I've also done a fair amount of shell scripting, AppleScript and Python to automate common device management tasks. After dipping toes to scripting language ocean I started learning and developing macOS apps with Swift when Apple released it in 2014. Since then I have developed few in-house Swift and SwiftUI applications for the companies I work for.
 
-## Recent projects
+## Recent and not so recent projects
 
 - [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (macOS SwiftUI app)
 - [FinderMate](https://github.com/jlehikoinen/FinderMate) (macOS Finder extension written in Swift)
@@ -16,6 +16,11 @@ During these years I've learned how to manage Apple devices using macOS and Linu
 ## FinMacAdmin presentations
 
 [The Finnish MacAdmin Community](http://macadmin.fi)
+
+### Scripting with SwiftUI - 13.04.2022
+
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2022/tree/main/ScriptingWithSwiftUI-JanneLehikoinen)
+- [Scripting with SfitUI](https://github.com/jlehikoinen/ScriptingInSwiftDemo)
 
 ### Scripting In Swift - 25.04.2019
 
