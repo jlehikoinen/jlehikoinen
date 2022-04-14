@@ -15,7 +15,7 @@ During these years I've learned how to manage Apple devices using macOS and Linu
 
 ## FinMacAdmin presentations
 
-[The Finnish MacAdmin Community](http://macadmin.fi)
+[The Finnish Mac Admin Community](http://macadmin.fi)
 
 ### Scripting with SwiftUI - 13.04.2022
 
