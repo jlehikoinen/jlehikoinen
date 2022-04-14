@@ -20,7 +20,7 @@ During these years I've learned how to manage Apple devices using macOS and Linu
 ### Scripting with SwiftUI - 13.04.2022
 
 - [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2022/tree/main/ScriptingWithSwiftUI-JanneLehikoinen)
-- [Scripting with SfitUI](https://github.com/jlehikoinen/ScriptingInSwiftDemo)
+- [Scripting with SwiftUI](https://github.com/jlehikoinen/ScriptingInSwiftDemo)
 
 ### Scripting In Swift - 25.04.2019
 
