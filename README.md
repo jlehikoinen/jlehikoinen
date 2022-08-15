@@ -4,9 +4,19 @@ I'm Janne and one of the founders of [The Finnish Mac Admin Community](http://ma
 
 During these years I've learned how to manage Apple devices using macOS and Linux platforms utilizing different management solutions. I've also done a fair amount of shell scripting, AppleScript and Python to automate common device management tasks. After dipping toes to scripting language ocean I started learning and developing macOS apps with Swift when Apple released it in 2014. Since then I have developed few in-house Swift and SwiftUI applications for the companies I work for.
 
+## iOS apps
+
+### Summat
+
+Summat is a game companion and easy sum calculator mainly for kids.
+
+It’s built using SwiftUI and Core Data is used for persistent data storage.
+
+[Summat in App Store](https://apps.apple.com/app/summat/id1620488295)
+
 ## Recent and not so recent projects
 
-- [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (macOS SwiftUI app)
+- [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (first SwiftUI app for macOS)
 - [FinderMate](https://github.com/jlehikoinen/FinderMate) (macOS Finder extension written in Swift)
 - [OpenWeatherMap API Demo](https://github.com/jlehikoinen/openweathermap-api-demo) (Simple Swift app using OpenWeatherMap API)
 - [Pythonista Flask example project](https://github.com/jlehikoinen/pythonista-flask-example)
