@@ -14,7 +14,7 @@ It’s built using SwiftUI and Core Data is used for persistent data storage.
 
 [Summat in App Store](https://apps.apple.com/app/summat/id1620488295)
 
-## Recent and not so recent projects
+## Not so recent projects
 
 - [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (first SwiftUI app for macOS)
 - [FinderMate](https://github.com/jlehikoinen/FinderMate) (macOS Finder extension written in Swift)
