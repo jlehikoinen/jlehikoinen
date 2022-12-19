@@ -16,6 +16,12 @@ It’s built using SwiftUI and Core Data is used for persistent data storage.
 
 [Summat in GitHub](https://github.com/jlehikoinen/Summat)
 
+## macOS apps
+
+### BarCat
+
+https://github.com/jlehikoinen/barcat
+
 ## Not so recent projects
 
 - [DefaultBrowser](https://github.com/jlehikoinen/DefaultBrowser) (first SwiftUI app for macOS)
