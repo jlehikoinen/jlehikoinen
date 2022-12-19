@@ -20,6 +20,8 @@ It’s built using SwiftUI and Core Data is used for persistent data storage.
 
 ### BarCat
 
+BarCat is a simple SwiftUI menu bar app for testing firewall ports.
+
 https://github.com/jlehikoinen/barcat
 
 ## Not so recent projects
