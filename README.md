@@ -17,6 +17,16 @@ During these years I've learned how to manage Apple devices using macOS and Linu
 
 [The Finnish MacAdmin Community](http://macadmin.fi)
 
+### How To Build A SwiftUI Menu Bar App - 25.05.2023
+
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2023/tree/main/HowToBuildASwiftUIMenuBarApp-JanneLehikoinen)
+- [Demo project repo](https://github.com/jlehikoinen/SwiftUIMenuBarAppDemo)
+
+### Scripting With SwiftUI - 13.04.2022
+
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2022/tree/main/ScriptingWithSwiftUI-JanneLehikoinen)
+- [Demo project repo](https://github.com/jlehikoinen/ScriptingWithSwiftUIDemo)
+
 ### Scripting In Swift - 25.04.2019
 
 - [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2019_pt1/tree/master/ScriptingInSwift)
