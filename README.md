@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Janne and one of the founders of [The Finnish Mac Admin Community](http://macadmin.fi). I have been working as a Mac administrator and managing Apple devices for over 10 years. In 2017 I started contributing to [AutoPkg](https://github.com/autopkg) project by creating [Munki](https://github.com/munki/munki) and [Jamf Pro](https://www.jamf.com/products/jamf-pro/) [recipes](https://github.com/autopkg/jlehikoinen-recipes).
+I'm Janne and one of the founders of The Finnish Mac Admin Community. I have been working as a Mac administrator and managing Apple devices for over 15 years. In 2017 I started contributing to [AutoPkg](https://github.com/autopkg) project by creating [Munki](https://github.com/munki/munki) and [Jamf Pro](https://www.jamf.com/products/jamf-pro/) [recipes](https://github.com/autopkg/jlehikoinen-recipes).
 
 During these years I've learned how to manage Apple devices using macOS and Linux platforms utilizing different management solutions. I've also done a fair amount of shell scripting, AppleScript and Python to automate common device management tasks. After dipping toes to scripting language ocean I started learning and developing macOS apps with Swift when Apple released it in 2014. Since then I have developed few in-house Swift and SwiftUI applications for the companies I work for.
 
