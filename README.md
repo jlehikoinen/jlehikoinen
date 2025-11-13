@@ -37,6 +37,11 @@ BarCat is a simple SwiftUI menu bar app for testing firewall ports.
 
 [The Finnish Mac Admin Community](https://github.com/macadminfi)
 
+### Swift Subprocess: "How to run Terminal commands using Swift app" - 13.11.2025
+
+- [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2025_2)
+- [Demo project repo](https://github.com/jlehikoinen/SubprocessDemo)
+
 ### How To Build A SwiftUI Menu Bar App - 25.05.2023
 
 - [FinMacAdmin GitHub repo](https://github.com/macadminfi/finmacadmin2023/tree/main/HowToBuildASwiftUIMenuBarApp-JanneLehikoinen)
