@@ -18,6 +18,12 @@ It’s built using SwiftUI and Core Data is used for persistent data storage.
 
 ## macOS apps
 
+### Icon Converter
+
+Icon Converter converts macOS app bundle icons to .png format.
+
+[Icon Converter repo in GitHub](https://github.com/jlehikoinen/iconconverter)
+
 ### BarCat
 
 BarCat is a simple SwiftUI menu bar app for testing firewall ports.
